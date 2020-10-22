@@ -9,7 +9,6 @@
     "geom:bbox":"116.386413574,39.9192161002,116.398288412,39.9344864565",
     "geom:latitude":39.926552,
     "geom:longitude":116.390966,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.925587,
     "lbl:longitude":116.390004,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85906911,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Jingshan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

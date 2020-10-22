@@ -9,7 +9,6 @@
     "geom:bbox":"116.371872082,39.8833838528,116.383666992,39.8928798922",
     "geom:latitude":39.887769,
     "geom:longitude":116.378082,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.887551,
     "lbl:longitude":116.37859,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904265,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261592,
     "wof:name":"Luomashidajie",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"116.33972168,39.9178073028,116.35345459,39.9286946456",
     "geom:latitude":39.923275,
     "geom:longitude":116.34684,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.924315,
     "lbl:longitude":116.348362,
@@ -102,10 +101,7 @@
         }
     ],
     "wof:id":85904243,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261592,
     "wof:name":"Fuchengmen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

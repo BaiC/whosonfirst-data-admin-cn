@@ -9,7 +9,6 @@
     "geom:bbox":"97.205154,37.406881,126.05652,53.334386",
     "geom:latitude":44.087669,
     "geom:longitude":113.918594,
-    "gn:id":"",
     "gn:population":24259735,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -547,7 +546,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428627,
+    "wof:lastmodified":1603261604,
     "wof:name":"Inner Mongolia",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"116.422119141,39.9097362259,116.449584963,39.9308008118",
     "geom:latitude":39.92001,
     "geom:longitude":116.435084,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.920254,
     "lbl:longitude":116.434997,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85903585,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261595,
     "wof:name":"Chaowai",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

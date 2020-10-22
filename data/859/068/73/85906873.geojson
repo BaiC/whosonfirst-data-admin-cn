@@ -9,7 +9,6 @@
     "geom:bbox":"116.338631091,39.9125277553,116.342468262,39.9181693554",
     "geom:latitude":39.915243,
     "geom:longitude":116.340599,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.915005,
     "lbl:longitude":116.341095,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85906873,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Yuetan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

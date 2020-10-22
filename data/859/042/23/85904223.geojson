@@ -9,7 +9,6 @@
     "geom:bbox":"116.4652464,39.8734319141,116.535115967,39.9252605666",
     "geom:latitude":39.898713,
     "geom:longitude":116.502478,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.906988,
     "lbl:longitude":116.50075,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904223,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261593,
     "wof:name":"Jiulongshan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

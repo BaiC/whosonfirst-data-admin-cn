@@ -9,7 +9,6 @@
     "geom:bbox":"116.40838623,39.9097362268,116.424865723,39.9244821181",
     "geom:latitude":39.917284,
     "geom:longitude":116.417523,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.916124,
     "lbl:longitude":116.416678,
@@ -108,10 +107,7 @@
         }
     ],
     "wof:id":85903591,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261594,
     "wof:name":"Chaoyangmen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.402411056,31.2245457712,121.431884766,31.2470720427",
     "geom:latitude":31.235283,
     "geom:longitude":121.41775,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.232378,
     "lbl:longitude":121.421063,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85907467,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261593,
     "wof:name":"Cao Jia Du",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

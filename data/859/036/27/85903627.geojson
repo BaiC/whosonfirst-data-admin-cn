@@ -9,7 +9,6 @@
     "geom:bbox":"116.377355476,39.8661659586,116.400146484,39.8823425858",
     "geom:latitude":39.874113,
     "geom:longitude":116.38817,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.875816,
     "lbl:longitude":116.388734,
@@ -116,10 +115,7 @@
         }
     ],
     "wof:id":85903627,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372957,
+    "wof:lastmodified":1603261591,
     "wof:name":"Xuanwu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

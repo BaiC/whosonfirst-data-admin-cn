@@ -9,7 +9,6 @@
     "geom:bbox":"116.217111816,39.8681271741,116.289718319,39.9020142858",
     "geom:latitude":39.885554,
     "geom:longitude":116.251943,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.886454,
     "lbl:longitude":116.263803,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85906925,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261596,
     "wof:name":"Qingtacun",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

@@ -509,11 +509,11 @@
     "src:population":"geonames",
     "wd:wordcount":5707,
     "wof:belongsto":[
+        85669735,
         102191569,
         85632695,
-        890516575,
         136253041,
-        85669735
+        890516575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -540,10 +540,7 @@
         }
     ],
     "wof:id":102027611,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428565,
+    "wof:lastmodified":1603261358,
     "wof:megacity":1,
     "wof:name":"Fuzhou",
     "wof:parent_id":890516575,

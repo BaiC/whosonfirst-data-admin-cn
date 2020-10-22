@@ -9,7 +9,6 @@
     "geom:bbox":"116.290283203,39.8949870069,116.3243329,39.9192292515",
     "geom:latitude":39.907264,
     "geom:longitude":116.305309,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.909985,
     "lbl:longitude":116.314756,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904245,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372958,
+    "wof:lastmodified":1603261592,
     "wof:name":"Huichengmen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

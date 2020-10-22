@@ -9,7 +9,6 @@
     "geom:bbox":"116.416625977,39.8572588355,116.44652904,39.8886651688",
     "geom:latitude":39.873801,
     "geom:longitude":116.433306,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.8789,
     "lbl:longitude":116.432476,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904275,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261592,
     "wof:name":"Guangminglou",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

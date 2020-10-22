@@ -511,11 +511,11 @@
     "src:population":"geonames",
     "wd:wordcount":12534,
     "wof:belongsto":[
+        85669787,
         102191569,
         85632695,
-        890516567,
         136253041,
-        85669787
+        890516567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -542,10 +542,7 @@
         }
     ],
     "wof:id":102027703,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428577,
+    "wof:lastmodified":1603261361,
     "wof:megacity":1,
     "wof:name":"Chengdu",
     "wof:parent_id":890516567,

@@ -9,7 +9,6 @@
     "geom:bbox":"121.426391602,31.2128014505,121.45111084,31.2292430923",
     "geom:latitude":31.220846,
     "geom:longitude":121.437927,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.220635,
     "lbl:longitude":121.442225,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85907501,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261594,
     "wof:name":"Jing An Si",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

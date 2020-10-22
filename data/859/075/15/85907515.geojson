@@ -9,7 +9,6 @@
     "geom:bbox":"121.495056152,31.255074127,121.565480957,31.3049810251",
     "geom:latitude":31.28177,
     "geom:longitude":121.530404,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.267493,
     "lbl:longitude":121.518287,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85907515,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261594,
     "wof:name":"Tilanqiao",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

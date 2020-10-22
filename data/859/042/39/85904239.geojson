@@ -9,7 +9,6 @@
     "geom:bbox":"116.347961426,39.9308008127,116.38092041,39.9560697701",
     "geom:latitude":39.944216,
     "geom:longitude":116.363654,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.942187,
     "lbl:longitude":116.370968,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85904239,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261592,
     "wof:name":"Xinjiekou",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

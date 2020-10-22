@@ -9,7 +9,6 @@
     "geom:bbox":"108.36682,29.03129,116.132935,33.273456",
     "geom:latitude":30.975322,
     "geom:longitude":112.270957,
-    "gn:id":"",
     "gn:population":57110000,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -535,7 +534,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428612,
+    "wof:lastmodified":1603261601,
     "wof:name":"Hubei",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

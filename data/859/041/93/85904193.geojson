@@ -9,7 +9,6 @@
     "geom:bbox":"116.416625977,39.888665104,116.444091797,39.9097362273",
     "geom:latitude":39.90041,
     "geom:longitude":116.432631,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.903984,
     "lbl:longitude":116.428326,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904193,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372956,
+    "wof:lastmodified":1603261590,
     "wof:name":"Beijingzhan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

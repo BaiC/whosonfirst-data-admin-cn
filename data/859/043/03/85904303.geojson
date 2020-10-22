@@ -9,7 +9,6 @@
     "geom:bbox":"116.350186661,39.9897471678,116.412893066,40.0638987729",
     "geom:latitude":40.02414,
     "geom:longitude":116.382464,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":40.00414,
     "lbl:longitude":116.385999,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904303,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261594,
     "wof:name":"Beijing International Convention Centre",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

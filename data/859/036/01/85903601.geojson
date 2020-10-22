@@ -9,7 +9,6 @@
     "geom:bbox":"116.273152442,39.8679062143,116.294126744,39.8844498543",
     "geom:latitude":39.876401,
     "geom:longitude":116.284099,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.8748,
     "lbl:longitude":116.282625,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85903601,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372958,
+    "wof:lastmodified":1603261591,
     "wof:name":"Fengtai",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

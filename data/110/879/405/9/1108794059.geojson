@@ -95,6 +95,9 @@
     },
     "wof:country":"CN",
     "wof:created":1469055780,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ff69e55d4fed403109d22a81ef815b8b",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1108794059,
-    "wof:lastmodified":1566688018,
+    "wof:lastmodified":1603262406,
     "wof:name":"Xiangxi",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

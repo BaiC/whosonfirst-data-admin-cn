@@ -9,7 +9,6 @@
     "geom:bbox":"116.317749023,39.8766557254,116.33972168,39.9107977236",
     "geom:latitude":39.895827,
     "geom:longitude":116.328539,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.899486,
     "lbl:longitude":116.333281,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904255,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261593,
     "wof:name":"Muxidi",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"116.355110186,39.8788131948,116.365785553,39.8865576982",
     "geom:latitude":39.882088,
     "geom:longitude":116.36091,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.882705,
     "lbl:longitude":116.362651,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85906877,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Niujie",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

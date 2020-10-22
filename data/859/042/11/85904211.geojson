@@ -9,7 +9,6 @@
     "geom:bbox":"116.411132812,39.9497533915,116.428702347,39.9659128132",
     "geom:latitude":39.957815,
     "geom:longitude":116.420964,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.956784,
     "lbl:longitude":116.421317,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85904211,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372958,
+    "wof:lastmodified":1603261592,
     "wof:name":"Hepingli",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

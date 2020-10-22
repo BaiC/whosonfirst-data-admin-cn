@@ -9,7 +9,6 @@
     "geom:bbox":"116.438598633,39.9339599457,116.479957685,39.960841539",
     "geom:latitude":39.946425,
     "geom:longitude":116.457614,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.942273,
     "lbl:longitude":116.452779,
@@ -117,10 +116,7 @@
         }
     ],
     "wof:id":85906905,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Sanlitun",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

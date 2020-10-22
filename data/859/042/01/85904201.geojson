@@ -9,7 +9,6 @@
     "geom:bbox":"116.39465332,39.8949871602,116.413879395,39.9076294195",
     "geom:latitude":39.901846,
     "geom:longitude":116.405558,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.904165,
     "lbl:longitude":116.405222,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904201,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261592,
     "wof:name":"Zhengyilu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

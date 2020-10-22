@@ -9,7 +9,6 @@
     "geom:bbox":"120.856173,30.699583,121.912056,31.852083",
     "geom:latitude":31.189252,
     "geom:longitude":121.418502,
-    "gn:id":"",
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Shanghai Municipality"
@@ -778,7 +777,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428621,
+    "wof:lastmodified":1603261603,
     "wof:name":"Shanghai",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

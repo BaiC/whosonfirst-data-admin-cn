@@ -116,6 +116,9 @@
     },
     "wof:country":"CN",
     "wof:created":1469055994,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"891d763f449438518da5733f94c2c007",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1108794071,
-    "wof:lastmodified":1566688018,
+    "wof:lastmodified":1603262406,
     "wof:name":"Gannan",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

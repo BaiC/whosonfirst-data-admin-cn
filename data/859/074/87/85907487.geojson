@@ -9,7 +9,6 @@
     "geom:bbox":"121.497802734,31.2070607176,121.536254884,31.2315916721",
     "geom:latitude":31.220591,
     "geom:longitude":121.517102,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.218474,
     "lbl:longitude":121.509501,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907487,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261593,
     "wof:name":"Lao Bai Du",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

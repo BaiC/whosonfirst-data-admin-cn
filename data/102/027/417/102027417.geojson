@@ -489,11 +489,11 @@
     "src:population":"geonames",
     "wd:wordcount":13973,
     "wof:belongsto":[
+        85669791,
         102191569,
         85632695,
-        890513777,
         136253041,
-        85669791
+        890513777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -523,10 +523,7 @@
         }
     ],
     "wof:id":102027417,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428577,
+    "wof:lastmodified":1603261362,
     "wof:megacity":1,
     "wof:name":"Kunming",
     "wof:parent_id":890513777,

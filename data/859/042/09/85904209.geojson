@@ -9,7 +9,6 @@
     "geom:bbox":"116.390565588,39.9490423605,116.416625977,39.9644906792",
     "geom:latitude":39.955738,
     "geom:longitude":116.403146,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.953021,
     "lbl:longitude":116.407279,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904209,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261592,
     "wof:name":"Anwaidajie",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

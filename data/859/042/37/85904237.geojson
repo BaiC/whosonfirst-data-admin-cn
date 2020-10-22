@@ -9,7 +9,6 @@
     "geom:bbox":"116.360876506,39.920269329,116.369934082,39.9286946451",
     "geom:latitude":39.924673,
     "geom:longitude":116.365836,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.924494,
     "lbl:longitude":116.365906,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85904237,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261592,
     "wof:name":"Xisi",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

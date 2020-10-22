@@ -9,7 +9,6 @@
     "geom:bbox":"121.467590332,31.2668132377,121.52697752,31.3143684226",
     "geom:latitude":31.287483,
     "geom:longitude":121.49607,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.279418,
     "lbl:longitude":121.484493,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85907517,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261594,
     "wof:name":"Quyang R.a.",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

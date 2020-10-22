@@ -9,7 +9,6 @@
     "geom:bbox":"116.365833313,39.8707373771,116.378173828,39.8855039097",
     "geom:latitude":39.879026,
     "geom:longitude":116.373295,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.880501,
     "lbl:longitude":116.372217,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85906889,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Taoranting",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

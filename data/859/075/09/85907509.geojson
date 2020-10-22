@@ -9,7 +9,6 @@
     "geom:bbox":"121.514282227,31.186958671,121.572012241,31.2348889853",
     "geom:latitude":31.212239,
     "geom:longitude":121.541794,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.214098,
     "lbl:longitude":121.548359,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907509,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261594,
     "wof:name":"Yanqiao Xiang",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

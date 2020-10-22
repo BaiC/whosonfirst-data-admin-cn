@@ -9,7 +9,6 @@
     "geom:bbox":"116.698417,38.556149,118.062537,40.249893",
     "geom:latitude":39.306708,
     "geom:longitude":117.330965,
-    "gn:id":"",
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Tianjin Municipality"
@@ -636,7 +635,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428618,
+    "wof:lastmodified":1603261602,
     "wof:name":"Tianjin",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

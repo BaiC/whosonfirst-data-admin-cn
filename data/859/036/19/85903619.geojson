@@ -9,7 +9,6 @@
     "geom:bbox":"116.267144829,39.8864564889,116.293838143,39.9181628466",
     "geom:latitude":39.904329,
     "geom:longitude":116.281092,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.909056,
     "lbl:longitude":116.275208,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85903619,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372958,
+    "wof:lastmodified":1603261591,
     "wof:name":"Wanshoulu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

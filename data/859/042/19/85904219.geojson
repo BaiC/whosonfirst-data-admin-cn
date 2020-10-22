@@ -9,7 +9,6 @@
     "geom:bbox":"116.456451416,39.9090252951,116.482543945,39.9262461895",
     "geom:latitude":39.918187,
     "geom:longitude":116.468954,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.91652,
     "lbl:longitude":116.464181,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904219,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261592,
     "wof:name":"Hujialou",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

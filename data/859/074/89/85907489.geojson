@@ -9,7 +9,6 @@
     "geom:bbox":"121.472166328,31.1775595968,121.5184021,31.215150432",
     "geom:latitude":31.195016,
     "geom:longitude":121.496672,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.191848,
     "lbl:longitude":121.489407,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907489,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261593,
     "wof:name":"Nan Ma Tou",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

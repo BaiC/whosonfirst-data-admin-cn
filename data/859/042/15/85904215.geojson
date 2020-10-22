@@ -9,7 +9,6 @@
     "geom:bbox":"116.369934082,39.9076242141,116.390942412,39.9230867239",
     "geom:latitude":39.914935,
     "geom:longitude":116.379154,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.91704,
     "lbl:longitude":116.389084,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904215,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261593,
     "wof:name":"Fuyoujie",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

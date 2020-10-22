@@ -438,11 +438,11 @@
     "src:population":"geonames",
     "wd:wordcount":2538,
     "wof:belongsto":[
+        85669721,
         102191569,
         85632695,
-        890516581,
         136253041,
-        85669721
+        890516581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -469,10 +469,7 @@
         }
     ],
     "wof:id":102027585,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428582,
+    "wof:lastmodified":1603261364,
     "wof:megacity":1,
     "wof:name":"Guiyang",
     "wof:parent_id":890516581,

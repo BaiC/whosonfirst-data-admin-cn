@@ -9,7 +9,6 @@
     "geom:bbox":"116.389160156,39.8528293272,116.416625977,39.876019412",
     "geom:latitude":39.865642,
     "geom:longitude":116.401324,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.869457,
     "lbl:longitude":116.403714,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85903629,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372957,
+    "wof:lastmodified":1603261591,
     "wof:name":"Yongwai",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

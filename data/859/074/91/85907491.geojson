@@ -9,7 +9,6 @@
     "geom:bbox":"121.467590332,31.2034049509,121.497802734,31.2299381684",
     "geom:latitude":31.217413,
     "geom:longitude":121.485077,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.220244,
     "lbl:longitude":121.48422,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907491,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261593,
     "wof:name":"Lao Ximen",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

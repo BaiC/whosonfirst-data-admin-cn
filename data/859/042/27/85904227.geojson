@@ -9,7 +9,6 @@
     "geom:bbox":"116.438598633,39.9223757546,116.457824709,39.9350129604",
     "geom:latitude":39.929174,
     "geom:longitude":116.448898,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.93164,
     "lbl:longitude":116.446575,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904227,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372958,
+    "wof:lastmodified":1603261592,
     "wof:name":"Gongrentiyuchang",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

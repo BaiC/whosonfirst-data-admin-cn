@@ -448,11 +448,11 @@
     "src:population":"geonames",
     "wd:wordcount":2778,
     "wof:belongsto":[
+        85669823,
         102191569,
         85632695,
-        890516469,
         136253041,
-        85669823
+        890516469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -476,10 +476,7 @@
         }
     ],
     "wof:id":102027295,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428566,
+    "wof:lastmodified":1603261358,
     "wof:megacity":1,
     "wof:name":"Nanchang",
     "wof:parent_id":890516469,

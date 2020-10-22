@@ -9,7 +9,6 @@
     "geom:bbox":"116.35345459,39.9265884158,116.368005311,39.9360794334",
     "geom:latitude":39.930669,
     "geom:longitude":116.359374,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.930606,
     "lbl:longitude":116.360155,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85906871,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Fusuijing",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

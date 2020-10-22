@@ -9,7 +9,6 @@
     "geom:bbox":"116.331481934,39.9687006801,116.357290941,39.9911694547",
     "geom:latitude":39.979072,
     "geom:longitude":116.344164,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.97906,
     "lbl:longitude":116.341692,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904291,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261592,
     "wof:name":"Xueyuanlu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

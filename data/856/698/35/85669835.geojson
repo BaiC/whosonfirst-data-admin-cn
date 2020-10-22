@@ -9,7 +9,6 @@
     "geom:bbox":"118.026783,27.149584,122.83622,31.17975",
     "geom:latitude":29.174417,
     "geom:longitude":120.076093,
-    "gn:id":"",
     "gn:population":51200000,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -511,7 +510,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428616,
+    "wof:lastmodified":1603261601,
     "wof:name":"Zhejiang",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

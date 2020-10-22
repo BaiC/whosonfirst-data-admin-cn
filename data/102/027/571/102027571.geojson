@@ -533,11 +533,11 @@
     "src:population":"geonames",
     "wd:wordcount":6650,
     "wof:belongsto":[
+        85669835,
         102191569,
         85632695,
-        890516555,
         136253041,
-        85669835
+        890516555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -561,10 +561,7 @@
         }
     ],
     "wof:id":102027571,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428581,
+    "wof:lastmodified":1603261363,
     "wof:megacity":1,
     "wof:name":"Hangzhou",
     "wof:parent_id":890516555,

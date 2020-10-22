@@ -9,7 +9,6 @@
     "geom:bbox":"116.400146484,39.877073317,116.416625977,39.8949871616",
     "geom:latitude":39.887872,
     "geom:longitude":116.408392,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.882824,
     "lbl:longitude":116.407868,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85903593,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261594,
     "wof:name":"Chongwen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

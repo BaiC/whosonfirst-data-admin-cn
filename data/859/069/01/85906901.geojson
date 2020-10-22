@@ -9,7 +9,6 @@
     "geom:bbox":"116.386413574,39.9434364526,116.405639648,39.9560697701",
     "geom:latitude":39.948757,
     "geom:longitude":116.39558,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.94631,
     "lbl:longitude":116.398068,
@@ -111,10 +110,7 @@
         }
     ],
     "wof:id":85906901,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Andingmen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

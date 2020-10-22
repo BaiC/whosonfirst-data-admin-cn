@@ -102,6 +102,9 @@
     },
     "wof:country":"CN",
     "wof:created":1469055840,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4019b0b753255b3a298e933f1d5ab23f",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108794067,
-    "wof:lastmodified":1566688016,
+    "wof:lastmodified":1603262405,
     "wof:name":"Qiandongnan",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

@@ -544,11 +544,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85669753,
         102191569,
         85632695,
-        890516251,
         136253041,
-        85669753
+        890516251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -575,10 +575,7 @@
         }
     ],
     "wof:id":102026823,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428590,
+    "wof:lastmodified":1603261366,
     "wof:megacity":1,
     "wof:name":"Urunchi",
     "wof:parent_id":890516251,

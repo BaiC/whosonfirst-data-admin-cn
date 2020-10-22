@@ -9,7 +9,6 @@
     "geom:bbox":"116.334228516,39.8802348637,116.362512501,39.9027303791",
     "geom:latitude":39.890477,
     "geom:longitude":116.346487,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.890452,
     "lbl:longitude":116.350154,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85906875,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Guangnei",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"116.339517991,39.8549376647,116.378173828,39.8805902891",
     "geom:latitude":39.867595,
     "geom:longitude":116.359249,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.870513,
     "lbl:longitude":116.367328,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904269,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372958,
+    "wof:lastmodified":1603261592,
     "wof:name":"Lirenjie",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

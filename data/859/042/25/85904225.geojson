@@ -9,7 +9,6 @@
     "geom:bbox":"116.477050781,39.9118428228,116.528249512,39.955542143",
     "geom:latitude":39.933129,
     "geom:longitude":116.504435,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.932499,
     "lbl:longitude":116.498004,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904225,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261593,
     "wof:name":"Shuiduizi",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

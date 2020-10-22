@@ -9,7 +9,6 @@
     "geom:bbox":"116.410314715,39.8939335022,116.419372559,39.901308578",
     "geom:latitude":39.897532,
     "geom:longitude":116.41481,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.897922,
     "lbl:longitude":116.413218,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904277,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261593,
     "wof:name":"Huashidajie",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"116.298522949,39.9939556853,116.313073093,40.0097352946",
     "geom:latitude":40.001943,
     "geom:longitude":116.306018,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":40.001692,
     "lbl:longitude":116.305587,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85903631,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372958,
+    "wof:lastmodified":1603261591,
     "wof:name":"Zhongguancon",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

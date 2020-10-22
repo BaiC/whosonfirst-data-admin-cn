@@ -537,11 +537,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85669747,
         102191569,
         85632695,
-        890515877,
         136253041,
-        85669747
+        890515877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -574,10 +574,7 @@
         }
     ],
     "wof:id":102026807,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428591,
+    "wof:lastmodified":1603261366,
     "wof:megacity":0,
     "wof:name":"Lhasa",
     "wof:parent_id":890515877,

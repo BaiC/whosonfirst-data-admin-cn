@@ -211,11 +211,11 @@
     "src:population":"geonames",
     "wd:wordcount":221,
     "wof:belongsto":[
+        85669743,
         102191569,
         85632695,
-        1108732429,
         136253041,
-        85669743
+        1108732429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -239,10 +239,7 @@
         }
     ],
     "wof:id":102027203,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428567,
+    "wof:lastmodified":1603261359,
     "wof:name":"Jieyang",
     "wof:parent_id":1108732429,
     "wof:placetype":"locality",

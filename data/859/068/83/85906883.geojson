@@ -9,7 +9,6 @@
     "geom:bbox":"116.334228516,39.9258640478,116.357018927,39.9434364539",
     "geom:latitude":39.934322,
     "geom:longitude":116.345898,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.935913,
     "lbl:longitude":116.345089,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85906883,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Zhanlanlu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

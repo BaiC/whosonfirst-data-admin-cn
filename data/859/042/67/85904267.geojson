@@ -9,7 +9,6 @@
     "geom:bbox":"116.354827881,39.8907725588,116.360291885,39.8941543899",
     "geom:latitude":39.892287,
     "geom:longitude":116.357366,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.891827,
     "lbl:longitude":116.357574,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904267,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372958,
+    "wof:lastmodified":1603261592,
     "wof:name":"Guanganmendajie",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

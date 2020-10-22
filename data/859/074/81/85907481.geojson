@@ -9,7 +9,6 @@
     "geom:bbox":"121.483475493,31.226112509,121.503741636,31.2416804603",
     "geom:latitude":31.234313,
     "geom:longitude":121.491718,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.234153,
     "lbl:longitude":121.490871,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907481,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261593,
     "wof:name":"Lan Ni Du",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

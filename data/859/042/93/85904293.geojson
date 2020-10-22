@@ -9,7 +9,6 @@
     "geom:bbox":"116.279157239,40.0053054389,116.35200237,40.0649499116",
     "geom:latitude":40.032449,
     "geom:longitude":116.314843,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":40.011571,
     "lbl:longitude":116.310791,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904293,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372958,
+    "wof:lastmodified":1603261592,
     "wof:name":"Qinghuadaxue",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

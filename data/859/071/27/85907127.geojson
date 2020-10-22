@@ -9,7 +9,6 @@
     "geom:bbox":"113.254138,23.126115,113.254138,23.126115",
     "geom:latitude":23.126115,
     "geom:longitude":113.254138,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:bbox":"113.249138,23.121115,113.259138,23.131115",
     "lbl:latitude":23.126115,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85907127,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372957,
+    "wof:lastmodified":1603261590,
     "wof:name":"Xiangyangxincun",
     "wof:parent_id":102027597,
     "wof:placetype":"neighbourhood",

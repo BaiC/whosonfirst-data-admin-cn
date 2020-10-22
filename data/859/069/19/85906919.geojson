@@ -9,7 +9,6 @@
     "geom:bbox":"116.413879395,39.8865576897,116.434196356,39.8992015026",
     "geom:latitude":39.892305,
     "geom:longitude":116.424074,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.892149,
     "lbl:longitude":116.426921,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85906919,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Donghuashi",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

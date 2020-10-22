@@ -9,7 +9,6 @@
     "geom:bbox":"116.386413574,39.8865576978,116.402893066,39.9062334544",
     "geom:latitude":39.896374,
     "geom:longitude":116.394883,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.900148,
     "lbl:longitude":116.392938,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904263,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261593,
     "wof:name":"Qianmendajie",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

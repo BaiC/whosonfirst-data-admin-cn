@@ -524,11 +524,11 @@
     "src:population":"geonames",
     "wd:wordcount":10827,
     "wof:belongsto":[
+        85669849,
         102191569,
         85632695,
-        890516235,
         136253041,
-        85669849
+        890516235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -555,10 +555,7 @@
         }
     ],
     "wof:id":102027921,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428585,
+    "wof:lastmodified":1603261364,
     "wof:megacity":1,
     "wof:name":"Harbin",
     "wof:parent_id":890516235,

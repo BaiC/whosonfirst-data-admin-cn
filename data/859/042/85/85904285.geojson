@@ -9,7 +9,6 @@
     "geom:bbox":"116.28208892,39.9918514552,116.301269531,40.0187873956",
     "geom:latitude":40.003842,
     "geom:longitude":116.291917,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":40.004464,
     "lbl:longitude":116.294737,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904285,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261593,
     "wof:name":"Haidianlu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

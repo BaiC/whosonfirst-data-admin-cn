@@ -19,7 +19,6 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[],
     "wof:belongsto":[
-        102550367,
         85669727,
         102191569,
         85632695,
@@ -37,7 +36,7 @@
     "wof:geomhash":"8530abf34e9b206e837632e3e50d9378",
     "wof:hierarchy":[
         {
-            "campus_id":102550367,
+            "campus_id":1477856009,
             "continent_id":102191569,
             "country_id":85632695,
             "county_id":1108732371,
@@ -47,7 +46,7 @@
         }
     ],
     "wof:id":1477856009,
-    "wof:lastmodified":1568758482,
+    "wof:lastmodified":1603263301,
     "wof:name":"Beijing Daxing International Airport",
     "wof:parent_id":102027745,
     "wof:placetype":"campus",

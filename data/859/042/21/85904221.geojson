@@ -9,7 +9,6 @@
     "geom:bbox":"116.438598633,39.866781493,116.477050781,39.9023749226",
     "geom:latitude":39.886106,
     "geom:longitude":116.456561,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.888936,
     "lbl:longitude":116.457459,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85904221,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261592,
     "wof:name":"Chuiyangliu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

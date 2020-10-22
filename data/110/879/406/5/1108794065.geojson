@@ -211,6 +211,9 @@
     },
     "wof:country":"CN",
     "wof:created":1469055852,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac3ea4c8aebd5b75c772b653d576be88",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":1108794065,
-    "wof:lastmodified":1566688017,
+    "wof:lastmodified":1603262405,
     "wof:name":"Aba",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

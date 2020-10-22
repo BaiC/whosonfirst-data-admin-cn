@@ -9,7 +9,6 @@
     "geom:bbox":"116.156687012,39.9710841117,116.287536621,40.0481293584",
     "geom:latitude":40.004448,
     "geom:longitude":116.240392,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.9953,
     "lbl:longitude":116.268379,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904299,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261593,
     "wof:name":"Yiheyuan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

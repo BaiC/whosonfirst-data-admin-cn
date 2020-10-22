@@ -9,7 +9,6 @@
     "geom:bbox":"116.320495605,39.9326429348,116.347961426,39.9497533996",
     "geom:latitude":39.941776,
     "geom:longitude":116.333549,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.940147,
     "lbl:longitude":116.33097,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904249,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261593,
     "wof:name":"Xiwaidajie",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

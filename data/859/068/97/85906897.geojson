@@ -9,7 +9,6 @@
     "geom:bbox":"116.39465332,39.8732007248,116.408931761,39.8897314548",
     "geom:latitude":39.881581,
     "geom:longitude":116.401606,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.880095,
     "lbl:longitude":116.405279,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85906897,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Tiantan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

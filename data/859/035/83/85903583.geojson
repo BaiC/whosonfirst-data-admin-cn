@@ -9,7 +9,6 @@
     "geom:bbox":"116.323242188,39.9465949673,116.350708008,39.9644906792",
     "geom:latitude":39.955102,
     "geom:longitude":116.335531,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.954284,
     "lbl:longitude":116.335988,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85903583,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261595,
     "wof:name":"Beixiaguan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

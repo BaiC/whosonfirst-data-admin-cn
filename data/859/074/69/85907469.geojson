@@ -9,7 +9,6 @@
     "geom:bbox":"121.442276638,31.1841918936,121.482214959,31.2221970256",
     "geom:latitude":31.205177,
     "geom:longitude":121.463037,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.206739,
     "lbl:longitude":121.462198,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85907469,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261593,
     "wof:name":"Da Pu Qiao",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

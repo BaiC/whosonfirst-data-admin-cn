@@ -360,11 +360,11 @@
     "src:population":"geonames",
     "wd:wordcount":2940,
     "wof:belongsto":[
+        85669813,
         102191569,
         85632695,
-        890515095,
         136253041,
-        85669813
+        890515095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -388,10 +388,7 @@
         }
     ],
     "wof:id":102026921,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428592,
+    "wof:lastmodified":1603261366,
     "wof:megacity":1,
     "wof:name":"Zibo",
     "wof:parent_id":890515095,

@@ -9,7 +9,6 @@
     "geom:bbox":"121.184345,43.425057,134.77281,53.560974",
     "geom:latitude":47.861007,
     "geom:longitude":127.759725,
-    "gn:id":"",
     "gn:population":38250000,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -495,7 +494,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428625,
+    "wof:lastmodified":1603261603,
     "wof:name":"Heilongjiang",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

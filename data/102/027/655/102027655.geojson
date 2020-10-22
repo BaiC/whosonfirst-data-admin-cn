@@ -258,11 +258,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85669791,
         102191569,
         85632695,
-        890514701,
         136253041,
-        85669791
+        890514701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -286,10 +286,7 @@
         }
     ],
     "wof:id":102027655,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428578,
+    "wof:lastmodified":1603261363,
     "wof:name":"Dayan",
     "wof:parent_id":890514701,
     "wof:placetype":"locality",

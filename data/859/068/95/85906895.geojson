@@ -9,7 +9,6 @@
     "geom:bbox":"116.361694336,39.945542166,116.391906738,39.9665957373",
     "geom:latitude":39.956805,
     "geom:longitude":116.376737,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.955026,
     "lbl:longitude":116.374119,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85906895,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Dewai",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

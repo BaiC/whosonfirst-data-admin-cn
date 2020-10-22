@@ -489,11 +489,11 @@
     "src:population":"geonames",
     "wd:wordcount":4193,
     "wof:belongsto":[
+        85669781,
         102191569,
         85632695,
-        890513085,
         136253041,
-        85669781
+        890513085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -520,10 +520,7 @@
         }
     ],
     "wof:id":102027715,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428568,
+    "wof:lastmodified":1603261360,
     "wof:megacity":1,
     "wof:name":"Changsha",
     "wof:parent_id":890513085,

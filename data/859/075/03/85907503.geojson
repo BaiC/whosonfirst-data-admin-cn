@@ -9,7 +9,6 @@
     "geom:bbox":"121.347727051,31.1205503501,121.445250234,31.1963569499",
     "geom:latitude":31.157381,
     "geom:longitude":121.397115,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.163857,
     "lbl:longitude":121.414401,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907503,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261594,
     "wof:name":"Tianlin R.a.",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

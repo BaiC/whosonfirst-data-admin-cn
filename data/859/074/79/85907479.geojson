@@ -9,7 +9,6 @@
     "geom:bbox":"121.486816406,31.2375944078,121.50604248,31.2480300375",
     "geom:latitude":31.242387,
     "geom:longitude":121.497372,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.240337,
     "lbl:longitude":121.499212,
@@ -98,10 +97,7 @@
         }
     ],
     "wof:id":85907479,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261594,
     "wof:name":"Lu Jia Zui",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

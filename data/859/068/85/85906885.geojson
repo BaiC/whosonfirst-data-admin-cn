@@ -9,7 +9,6 @@
     "geom:bbox":"116.341124876,39.8925243904,116.369232663,39.9139496621",
     "geom:latitude":39.903521,
     "geom:longitude":116.355361,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.903565,
     "lbl:longitude":116.35726,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85906885,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Erlonglu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

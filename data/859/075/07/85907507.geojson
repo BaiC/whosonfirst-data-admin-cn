@@ -9,7 +9,6 @@
     "geom:bbox":"121.519775391,31.1581597063,121.581960449,31.2188234234",
     "geom:latitude":31.18692,
     "geom:longitude":121.552931,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.206879,
     "lbl:longitude":121.561512,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907507,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261594,
     "wof:name":"Beicai Zhen",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

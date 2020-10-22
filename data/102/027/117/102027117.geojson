@@ -450,11 +450,11 @@
     "src:population":"geonames",
     "wd:wordcount":4599,
     "wof:belongsto":[
+        85669773,
         102191569,
         85632695,
-        890513333,
         136253041,
-        85669773
+        890513333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -484,10 +484,7 @@
         }
     ],
     "wof:id":102027117,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428570,
+    "wof:lastmodified":1603261360,
     "wof:megacity":1,
     "wof:name":"Taiyuan",
     "wof:parent_id":890513333,

@@ -9,7 +9,6 @@
     "geom:bbox":"116.454260244,39.9213225548,116.493672295,39.9598619607",
     "geom:latitude":39.939792,
     "geom:longitude":116.474781,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.937465,
     "lbl:longitude":116.472035,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85903617,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372958,
+    "wof:lastmodified":1603261591,
     "wof:name":"Tuanjiehu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

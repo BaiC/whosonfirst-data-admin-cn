@@ -9,7 +9,6 @@
     "geom:bbox":"116.40838623,39.8718035868,116.424865723,39.8897188355",
     "geom:latitude":39.881045,
     "geom:longitude":116.417079,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.882245,
     "lbl:longitude":116.414969,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85906921,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Tiyuguanlu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"116.333410488,39.9013085857,116.345214844,39.9111580732",
     "geom:latitude":39.905653,
     "geom:longitude":116.339273,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.905102,
     "lbl:longitude":116.335814,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904251,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372958,
+    "wof:lastmodified":1603261592,
     "wof:name":"Fuwaidajie",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

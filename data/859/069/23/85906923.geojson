@@ -9,7 +9,6 @@
     "geom:bbox":"116.22260498,39.9100297006,116.279296875,39.9539642187",
     "geom:latitude":39.929433,
     "geom:longitude":116.249373,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.927017,
     "lbl:longitude":116.254095,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85906923,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261595,
     "wof:name":"Tiejiafen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

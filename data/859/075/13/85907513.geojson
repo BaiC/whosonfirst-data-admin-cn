@@ -9,7 +9,6 @@
     "geom:bbox":"121.511535645,31.224545772,121.603933105,31.3988128962",
     "geom:latitude":31.271128,
     "geom:longitude":121.549189,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":31.242982,
     "lbl:longitude":121.521315,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907513,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261594,
     "wof:name":"Yangpu Qu",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

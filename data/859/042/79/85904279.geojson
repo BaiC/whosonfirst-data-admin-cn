@@ -9,7 +9,6 @@
     "geom:bbox":"116.289205028,39.8696955085,116.318839935,39.8999122999",
     "geom:latitude":39.885066,
     "geom:longitude":116.304326,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.892219,
     "lbl:longitude":116.31201,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85904279,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372959,
+    "wof:lastmodified":1603261593,
     "wof:name":"Taipingqiao",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

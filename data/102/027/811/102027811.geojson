@@ -272,11 +272,11 @@
     "src:population":"geonames",
     "wd:wordcount":2391,
     "wof:belongsto":[
+        85669743,
         102191569,
         85632695,
-        890516323,
         136253041,
-        85669743
+        890516323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -302,10 +302,7 @@
         }
     ],
     "wof:id":102027811,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428561,
+    "wof:lastmodified":1603261357,
     "wof:name":"Zhongshan",
     "wof:parent_id":890516323,
     "wof:placetype":"locality",

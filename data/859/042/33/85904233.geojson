@@ -9,7 +9,6 @@
     "geom:bbox":"116.361694334,39.9002550163,116.378173828,39.9139496609",
     "geom:latitude":39.906835,
     "geom:longitude":116.369395,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.907205,
     "lbl:longitude":116.368683,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85904233,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372958,
+    "wof:lastmodified":1603261592,
     "wof:name":"Sidan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

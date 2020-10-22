@@ -9,7 +9,6 @@
     "geom:bbox":"116.411132812,39.9013085776,116.419372559,39.9076294123",
     "geom:latitude":39.90482,
     "geom:longitude":116.41571,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.905334,
     "lbl:longitude":116.416089,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85906913,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372961,
+    "wof:lastmodified":1603261596,
     "wof:name":"Jianguomen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

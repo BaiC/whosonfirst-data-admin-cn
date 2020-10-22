@@ -459,11 +459,11 @@
     "src:population":"geonames",
     "wd:wordcount":4243,
     "wof:belongsto":[
+        85669711,
         102191569,
         85632695,
-        890513013,
         136253041,
-        85669711
+        890513013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -493,10 +493,7 @@
         }
     ],
     "wof:id":102027397,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428559,
+    "wof:lastmodified":1603261357,
     "wof:megacity":1,
     "wof:name":"Lanzhou",
     "wof:parent_id":890513013,

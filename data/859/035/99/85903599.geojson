@@ -9,7 +9,6 @@
     "geom:bbox":"116.328735352,39.9813293214,116.3671875,40.0273044645",
     "geom:latitude":40.003197,
     "geom:longitude":116.346359,
-    "gn:id":"",
     "iso:country":"CN",
     "lbl:latitude":39.995466,
     "lbl:longitude":116.337561,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85903599,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582372960,
+    "wof:lastmodified":1603261594,
     "wof:name":"Dongshenglu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

@@ -591,11 +591,11 @@
     "src:population":"geonames",
     "wd:wordcount":4223,
     "wof:belongsto":[
+        85669801,
         102191569,
         85632695,
-        890515627,
         136253041,
-        85669801
+        890515627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -623,10 +623,7 @@
         }
     ],
     "wof:id":102026899,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1587428592,
+    "wof:lastmodified":1603261366,
     "wof:megacity":1,
     "wof:name":"Zhengzhou",
     "wof:parent_id":890515627,
